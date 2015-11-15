@@ -5,6 +5,7 @@ Features:
 
 * supports simple geometries (spheres, planes, boxes, triangles)
 * textures
+* different materials
 * interactive (changing camera position and orientation using mouse)
 * animation of sun
 * soft shadows
